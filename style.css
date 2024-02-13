@@ -1,0 +1,222 @@
+.home-1-stpage,
+.home-1-stpage * {
+  box-sizing: border-box;
+}
+.home-1-stpage {
+  background: #d6b8b8;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #7993ed;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 10px;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.about-me {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 218.93px;
+  height: 107.75px;
+  position: absolute;
+  left: 185px;
+  top: 466.25px;
+}
+.hi-i-am-daniel-from-bsit-3-b {
+  color: #000000;
+  text-align: center;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 167px;
+  top: 490px;
+  width: 255px;
+  height: 113px;
+}
+.hi-i-am-daniel-from-bsit-3-b-span {
+  color: #000000;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+.hi-i-am-daniel-from-bsit-3-b-span2 {
+  color: #000000;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+.about-me2 {
+  color: #000000;
+  text-align: center;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1156px;
+  top: 574px;
+  width: 150px;
+  height: 37px;
+}
+.ellipse-3 {
+  width: 88px;
+  height: 49px;
+  position: absolute;
+  left: 1187px;
+  top: 498px;
+  overflow: visible;
+  object-fit: cover;
+}
+.image-1 {
+  width: 475px;
+  height: 683px;
+  position: absolute;
+  left: 489px;
+  top: 181px;
+  object-fit: cover;
+}
+.header {
+  width: 1399px;
+  height: 93.36px;
+  position: static;
+}
+.daniel-s-online-resume {
+  color: #000000;
+  text-align: center;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 510px;
+  top: 25.33px;
+  width: 434.92px;
+  height: 83.03px;
+}
+.home {
+  color: #000000;
+  text-align: center;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 28px;
+  top: 15.33px;
+  width: 92.28px;
+  height: 43.49px;
+}
+.about {
+  color: #000000;
+  text-align: center;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 120.28px;
+  top: 15.33px;
+  width: 78.54px;
+  height: 43.49px;
+}
+.portfolio {
+  color: #000000;
+  text-align: center;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 223.37px;
+  top: 15.33px;
+  width: 104.07px;
+  height: 51.4px;
+}
+.contacts {
+  color: #000000;
+  text-align: center;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 342px;
+  top: 15px;
+  width: 104.07px;
+  height: 51.4px;
+}
+.dowload-cv {
+  color: #000000;
+  text-align: center;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: absolute;
+  left: 1281.7px;
+  top: 15.33px;
+  width: 145.3px;
+  height: 51.4px;
+}
+.social-media {
+  position: absolute;
+  inset: 0;
+}
+.danielgalao-17-gmail-com {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  left: 28px;
+  top: 921px;
+  width: 314px;
+  height: 33px;
+}
+.accounts {
+  width: 257.19px;
+  height: 43.64px;
+  position: static;
+}
+.instagram-1 {
+  width: 39.19px;
+  height: 42px;
+  position: absolute;
+  left: 584px;
+  top: 910px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.facebook-1 {
+  width: 40.73px;
+  height: 43.64px;
+  position: absolute;
+  left: 655px;
+  top: 910px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.twitter-1 {
+  width: 39.96px;
+  height: 42.82px;
+  position: absolute;
+  left: 729px;
+  top: 910.35px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.google-1 {
+  width: 39.19px;
+  height: 42px;
+  position: absolute;
+  left: 802px;
+  top: 910px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
